@@ -1,3 +1,8 @@
+/*
+ * These projects were created for my training.
+ * Please do not use it as reliable information.
+ * Sincerely, M.Zazulin.
+ */
 class Mechanics {
     private val alphabets = ('a'..'z') + ('a'..'z')
     private val alphabets2 = ('a'..'z') + ('a'..'z')
